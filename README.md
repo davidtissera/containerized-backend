@@ -1,5 +1,5 @@
 # Description
-This project was bootstraped with [Nest JS](https://create-react-app.dev/)
+This project was bootstraped with [Nest JS](https://nestjs.com/)
 
 ## Installation
 ---
@@ -16,3 +16,9 @@ For starting the app in a development environment inside `/containerized-backend
 ```bash
 $ npm run start:dev
 ```
+</br>
+<footer style="font-family: Helvetica">
+<h3>
+Repository maintained by David Tissera - https://www.github.com/davidtissera
+</h3>
+</footer>
